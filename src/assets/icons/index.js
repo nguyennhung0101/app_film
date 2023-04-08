@@ -1,0 +1,9 @@
+export {default as BackLeft} from './back-left.svg';
+export {default as home_active} from './home_active.png';
+export {default as home} from './home.png';
+export {default as playlist_active} from './playlist_active.png';
+export {default as playlist} from './playlist.png';
+export {default as search_active} from './search_active.png';
+export {default as search} from './search.png';
+export {default as user_active} from './user_active.png';
+export {default as user} from './user.png';
